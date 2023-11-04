@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-11-04T15:37:36+01:00",
+  "id": "creacion-sock-puppet-rvc",
+  "duration": 0,
+  "title": "Sock Puppet",
+  "summary": "Creacion de mi Sock Puppet",
+  "source": "sockpuppet.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sockpuppet",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "creacion-sock-puppet-rvc"
+}
